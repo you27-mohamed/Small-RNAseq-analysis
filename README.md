@@ -19,7 +19,7 @@ The workflow is divided into multiple stages, starting from raw data processing 
 
 ### General Pipeline for Small RNA Analysis
 
-![Small RNA Analysis Workflow](path/to/your/image1.jpg)
+![Small RNA Analysis Workflow](images/fmolb-11-1453562-g001.jpg)
 
 This diagram illustrates the overall process for small RNA sequencing analysis, including:
 1. **Raw Data Processing**: Quality control using FastQC and adapter trimming using Cutadapt.
