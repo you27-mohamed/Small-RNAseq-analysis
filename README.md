@@ -58,5 +58,5 @@ To run this pipeline, the following software and libraries are required:
 
 1. Clone this repository and navigate to the project directory.
    ```bash
-   git clone https://github.com/yourusername/small-rna-analysis.git
+   git clone https://github.com/you27-mohamed/Small-RNAseq-analysis.git
    cd small-rna-analysis
